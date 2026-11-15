@@ -27,15 +27,15 @@ Este curso de 1 hora introduce a estudiantes de secundaria a los fundamentos de 
 
 ### Lección 1: Introducción a la programación y Java (5 minutos)
 * **Descripción**: Aprende qué es la programación, por qué Java es un excelente lenguaje para empezar, su estructura básica y cómo mostrar mensajes en consola.
-* **Enlace**: [Ver la lección]([PENDIENTE_LINK_YOUTUBE_L1])
+* **Enlace**: [Ver la lección](https://youtu.be/mh5wDEQSnRk)
 * **Conclusiones clave**: Java se usa para aplicaciones y juegos; `System.out.println()` permite imprimir resultados en pantalla.
-* **Empieza a programar**: [Abrir OnlineGDB - Hola Mundo]([PENDIENTE_LINK_EDITOR_L1]) **¡Código listo para ejecutar!**
+* **Empieza a programar**: [Abrir OnlineGDB - Hola Mundo](https://www.mycompiler.io/view/DJDItXeZF5p) **¡Código listo para ejecutar!**
 
 ### Lección 2: Variables, Tipos de Datos y Operadores (7 minutos)
 * **Descripción**: Aprende a almacenar información en Java usando variables, distintos tipos de datos y realizar operaciones matemáticas y lógicas.
-* **Enlace**: [Ver la lección]([PENDIENTE_LINK_YOUTUBE_L2])
+* **Enlace**: [Ver la lección]([https://youtu.be/mh5wDEQSnRk])
 * **Conclusiones clave**: Uso de `int`, `double`, `String`, `boolean`; operadores aritméticos (`+`, `-`, `*`, `/`) y relacionales.
-* **Práctica**: [Clic para programar]([PENDIENTE_LINK_EDITOR_L2]) **¡No es necesario registrarse!**
+* **Práctica**: [Clic para programar](https://www.mycompiler.io/view/DJDItXeZF5p) **¡No es necesario registrarse!**
 
 ### Lección 3: Estructuras de Control: Decisiones y Bucles (10 minutos)
 * **Descripción**: Toma decisiones en tu código con condicionales `if-else` y repite tareas automáticamente utilizando bucles `for` y `while`.
