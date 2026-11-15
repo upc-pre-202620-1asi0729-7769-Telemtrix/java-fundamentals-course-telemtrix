@@ -38,10 +38,10 @@ Este curso de 1 hora introduce a estudiantes de secundaria a los fundamentos de 
 * **Práctica**: [Clic para programar](https://www.mycompiler.io/view/DJDItXeZF5p) **¡No es necesario registrarse!**
 
 ### Lección 3: Estructuras de Control: Decisiones y Bucles (10 minutos)
-* **Descripción**: Toma decisiones en tu código con condicionales `if-else` y repite tareas automáticamente utilizando bucles `for` y `while`.
-* **Enlace**: [Ver la lección]([PENDIENTE_LINK_YOUTUBE_L3])
-* **Conclusiones clave**: `if (edad >= 15) {}` para evaluar condiciones; `for` y `while` para iteraciones.
-* **Práctica**: [Clic para programar]([PENDIENTE_LINK_EDITOR_L3]) **¡Inicio inmediato!**
+- **Descripción**: Toma decisiones en tu código con condicionales `if-else` y repite tareas automáticamente utilizando bucles `for` y `while`.
+- **Enlace**: [Ver la lección](https://youtu.be/1wIqR3N5Xhk)
+- **Conclusiones clave**: `if (edad >= 15) {}` para evaluar condiciones; `for` y `while` para iteraciones.
+- **Práctica**: [Clic para programar](https://www.mycompiler.io/view/Ku4Q4yuZyy7) **¡Inicio inmediato!**
 
 ### Lección 4: Métodos y Entrada de Usuario (10 minutos)
 * **Descripción**: Organiza y reutiliza tu código creando funciones (métodos con parámetros) y aprende a leer datos ingresados por el usuario desde el teclado.
