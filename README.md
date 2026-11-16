@@ -53,7 +53,7 @@ Este curso de 1 hora introduce a estudiantes de secundaria a los fundamentos de 
 ### Lección 5: Fundamentos de Programación Orientada a Objetos (8 minutos)
 
 * **Descripción**: Aprende los fundamentos de la Programación Orientada a Objetos (POO) en Java mediante la creación de una clase `Jugador`. Descubre cómo utilizar atributos, constructores, métodos y encapsulación con getters y setters.
-* **Enlace**: [Ver la lección](PENDIENTE_LINK_YOUTUBE_L5)
+* **Enlace**: [Ver la Lección 5 en YouTube](https://youtu.be/2ZQr82_QnRs)
 * **Conclusiones clave**: Una clase funciona como un molde para crear objetos. Los constructores permiten inicializarlos y la encapsulación protege sus atributos mediante getters y setters.
 * **Práctica**: [¡Comienza a programar en OnlineGDB!](https://onlinegdb.com/eLlqLkd90) **¡Sin instalar Java!**
 * **Solución completa**: [Ver código funcional en OnlineGDB](https://onlinegdb.com/eSJYBeT04)
