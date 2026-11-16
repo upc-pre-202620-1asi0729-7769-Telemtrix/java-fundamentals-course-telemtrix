@@ -283,6 +283,6 @@ En la próxima lección aprenderemos a trabajar con varios objetos utilizando ar
 - Código inicial: starter-files/leccion-05/Main.java
 - Código completo: completed-examples/leccion-05/Main.java
 - Editor en línea: https://www.onlinegdb.com/online_java_compiler
-- Video de YouTube: Pendiente de publicación.
+- Video de YouTube: https://youtu.be/2ZQr82_QnRs 
 - Enlace del ejercicio precargado: Pendiente de publicación.
 
