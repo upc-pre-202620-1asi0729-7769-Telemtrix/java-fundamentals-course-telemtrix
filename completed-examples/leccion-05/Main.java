@@ -2,14 +2,10 @@ public class Main {
     public static void main(String[] args) {
 
         Jugador jugador1 = new Jugador("Carlos", 15, 100);
-
         System.out.println("=== MI PRIMER OBJETO EN JAVA ===");
-
         jugador1.mostrarInformacion();
-
         System.out.println("\nActualizando puntos...");
         jugador1.setPuntos(150);
-
         System.out.println("Puntos actuales: "
                 + jugador1.getPuntos());
     }
