@@ -59,7 +59,7 @@ Este curso de 1 hora introduce a estudiantes de secundaria a los fundamentos de 
 ### Lección 6: Arrays y Manipulación de Datos con Objetos (7 minutos)
 
 * **Descripción**: Aprende a utilizar arrays en Java para almacenar y administrar varios objetos de la clase `Jugador`. Descubre cómo recorrer arreglos mediante bucles `for`, acceder a sus elementos y comparar puntuaciones.
-* **Enlace**: Video de YouTube pendiente de publicación.
+* **Enlace**: [Ver la Lección 6 en YouTube](https://youtu.be/pVIi5TrVYAc)
 * **Conclusiones clave**: Los arrays almacenan múltiples elementos del mismo tipo. Los índices comienzan en cero y la propiedad `length` permite conocer su tamaño. Podemos combinar arrays, objetos, bucles y condiciones para procesar información.
 * **Práctica**: [¡Comienza a programar en OnlineGDB!](https://onlinegdb.com/wWrY1J1pQ) **¡Sin instalar Java!**
 * **Solución completa**: [Ver código funcional en OnlineGDB](https://onlinegdb.com/DofTz-E5OS)

@@ -241,6 +241,6 @@ Recuerda que practicar es la mejor forma de aprender programación.
 - Código inicial: starter-files/leccion-06/Main.java
 - Código completo: completed-examples/leccion-06/Main.java
 - Editor en línea: https://www.onlinegdb.com/online_java_compiler
-- Video de YouTube: Pendiente de publicación.
+- Video de YouTube: https://youtu.be/pVIi5TrVYAc 
 - Enlace del ejercicio precargado: Pendiente de publicación.
 
