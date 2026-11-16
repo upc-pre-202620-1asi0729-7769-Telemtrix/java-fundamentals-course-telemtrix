@@ -31,23 +31,23 @@ Este curso de 1 hora introduce a estudiantes de secundaria a los fundamentos de 
 * **Conclusiones clave**: Java se usa para aplicaciones y juegos; `System.out.println()` permite imprimir resultados en pantalla.
 * **Empieza a programar**: [Abrir OnlineGDB - Hola Mundo](https://www.mycompiler.io/view/CJdm35ZjiWc) **¡Código listo para ejecutar!**
 
-### Lección 2: Variables, Tipos de Datos y Operadores (7 minutos)
+### Lección 2: Variables, Tipos de Datos y Operadores 
 * **Descripción**: Aprende a almacenar información en Java usando variables, distintos tipos de datos y realizar operaciones matemáticas y lógicas.
 * **Enlace**: [Ver la lección]([https://youtu.be/mh5wDEQSnRk])
 * **Conclusiones clave**: Uso de `int`, `double`, `String`, `boolean`; operadores aritméticos (`+`, `-`, `*`, `/`) y relacionales.
 * **Práctica**: [Clic para programar](https://www.mycompiler.io/view/DJDItXeZF5p) **¡No es necesario registrarse!**
 
-### Lección 3: Estructuras de Control: Decisiones y Bucles (10 minutos)
-* **Descripción**: Toma decisiones en tu código con condicionales `if-else` y repite tareas automáticamente utilizando bucles `for` y `while`.
-* **Enlace**: [Ver la lección]([PENDIENTE_LINK_YOUTUBE_L3])
-* **Conclusiones clave**: `if (edad >= 15) {}` para evaluar condiciones; `for` y `while` para iteraciones.
-* **Práctica**: [Clic para programar]([PENDIENTE_LINK_EDITOR_L3]) **¡Inicio inmediato!**
+### Lección 3: Estructuras de Control: Decisiones y Bucles (11 minutos)
+- **Descripción**: Toma decisiones en tu código con condicionales `if-else` y repite tareas automáticamente utilizando bucles `for` y `while`.
+- **Enlace**: [Ver la lección](https://youtu.be/1wIqR3N5Xhk)
+- **Conclusiones clave**: `if (edad >= 15) {}` para evaluar condiciones; `for` y `while` para iteraciones.
+- **Práctica**: [Clic para programar](https://www.mycompiler.io/view/Ku4Q4yuZyy7) **¡Inicio inmediato!**
 
 ### Lección 4: Métodos y Entrada de Usuario (10 minutos)
-* **Descripción**: Organiza y reutiliza tu código creando funciones (métodos con parámetros) y aprende a leer datos ingresados por el usuario desde el teclado.
-* **Enlace**: [Ver la lección]([PENDIENTE_LINK_YOUTUBE_L4])
-* **Conclusiones clave**: Definición de métodos `public static void saludar(String nombre)` y uso de la clase `Scanner`.
-* **Práctica**: [Haz clic para practicar]([PENDIENTE_LINK_EDITOR_L4]) **¡No necesitas registrarte!**
+- **Descripción**: Organiza y reutiliza tu código creando funciones (métodos con parámetros) y aprende a leer datos ingresados por el usuario desde el teclado.
+- **Enlace**: [Ver la lección](https://youtu.be/AvVkGdDv-74)
+- **Conclusiones clave**: Definición de métodos `public static void saludar(String nombre)` y uso de la clase `Scanner`.
+- **Práctica**: [Haz clic para practicar](https://www.mycompiler.io/view/DLgfjj7WTKl) **¡No necesitas registrarte!**
 
 ### Lección 5: Fundamentos de Programación Orientada a Objetos (8 minutos)
 * **Descripción**: Da el salto a la POO aprendiendo qué son las clases y los objetos, cómo inicializarlos con constructores y proteger datos con encapsulación.
@@ -61,17 +61,17 @@ Este curso de 1 hora introduce a estudiantes de secundaria a los fundamentos de 
 * **Conclusiones clave**: Declaración y recorrido de arrays (`Estudiante[] lista = new Estudiante[5]`).
 * **Práctica**: [Clic para programar]([PENDIENTE_LINK_EDITOR_L6]) **¡No es necesario registrarse!**
 
-### Lección 7: Mini Proyecto Integrador (10 minutos)
+### Lección 7: Mini Proyecto Integrador (16 minutos)
 * **Descripción**: Pon a prueba todo lo aprendido desarrollando paso a paso una aplicación funcional desde cero (Sistema de Registro / Juego de Adivinanzas).
-* **Enlace**: [Ver la lección]([PENDIENTE_LINK_YOUTUBE_L7])
+* **Enlace**: [Ver la lección](https://youtu.be/0Vy1h-4HPnE)
 * **Conclusiones clave**: Integración de clases, objetos, bucles, condicionales y entrada por consola.
-* **Proyecto final**: [Crea tu aplicación POO]([PENDIENTE_LINK_EDITOR_L7]) **¡Guarda y comparte!**
+* **Proyecto final**: [Crea tu aplicación POO](https://onlinegdb.com/wAjis5BZc) **¡Guarda y comparte!**
 
-### Lección 8: Mejores Prácticas y Errores Comunes (5 minutos)
+### Lección 8: Mejores Prácticas y Errores Comunes (3 minutos)
 * **Descripción**: Aprende a escribir código limpio, seguir convenciones de nombres en Java y detectar/corregir los errores más frecuentes al empezar.
-* **Enlace**: [Ver la lección]([PENDIENTE_LINK_YOUTUBE_L8])
+* **Enlace**: [Ver la lección](https://youtu.be/CzUeXhDZTSE)
 * **Consejos clave**: Nomenclatura `CamelCase`, indentación, lectura de mensajes de error de compilación y depuración básica.
-* **Compartir tu trabajo**: [Enviar creación]([PENDIENTE_LINK_FORMS_O_EDITOR_L8])
+* **Compartir tu trabajo**: [Enviar creación](https://onlinegdb.com/wAjis5BZc)
 
 ---
 
