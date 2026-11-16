@@ -31,13 +31,13 @@ Este curso de 1 hora introduce a estudiantes de secundaria a los fundamentos de 
 * **Conclusiones clave**: Java se usa para aplicaciones y juegos; `System.out.println()` permite imprimir resultados en pantalla.
 * **Empieza a programar**: [Abrir OnlineGDB - Hola Mundo](https://www.mycompiler.io/view/DJDItXeZF5p) **¡Código listo para ejecutar!**
 
-### Lección 2: Variables, Tipos de Datos y Operadores (7 minutos)
+### Lección 2: Variables, Tipos de Datos y Operadores 
 * **Descripción**: Aprende a almacenar información en Java usando variables, distintos tipos de datos y realizar operaciones matemáticas y lógicas.
 * **Enlace**: [Ver la lección]([https://youtu.be/mh5wDEQSnRk])
 * **Conclusiones clave**: Uso de `int`, `double`, `String`, `boolean`; operadores aritméticos (`+`, `-`, `*`, `/`) y relacionales.
 * **Práctica**: [Clic para programar](https://www.mycompiler.io/view/DJDItXeZF5p) **¡No es necesario registrarse!**
 
-### Lección 3: Estructuras de Control: Decisiones y Bucles (10 minutos)
+### Lección 3: Estructuras de Control: Decisiones y Bucles (11 minutos)
 - **Descripción**: Toma decisiones en tu código con condicionales `if-else` y repite tareas automáticamente utilizando bucles `for` y `while`.
 - **Enlace**: [Ver la lección](https://youtu.be/1wIqR3N5Xhk)
 - **Conclusiones clave**: `if (edad >= 15) {}` para evaluar condiciones; `for` y `while` para iteraciones.
