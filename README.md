@@ -55,11 +55,17 @@ Este curso de 1 hora introduce a estudiantes de secundaria a los fundamentos de 
 * **Conclusiones clave**: Creación de clases, atributos, constructores y métodos `getters` y `setters`.
 * **Práctica**: [Clic para programar]([PENDIENTE_LINK_EDITOR_L5]) **¡Inicio inmediato!**
 
+
 ### Lección 6: Arrays y Manipulación de Datos con Objetos (7 minutos)
-* **Descripción**: Almacena y gestiona listas de elementos utilizando arreglos (arrays) y combínalos con tus propias clases y objetos.
-* **Enlace**: [Ver la lección]([PENDIENTE_LINK_YOUTUBE_L6])
-* **Conclusiones clave**: Declaración y recorrido de arrays (`Estudiante[] lista = new Estudiante[5]`).
-* **Práctica**: [Clic para programar]([PENDIENTE_LINK_EDITOR_L6]) **¡No es necesario registrarse!**
+
+* **Descripción**: Aprende a utilizar arrays en Java para almacenar y administrar varios objetos de la clase `Jugador`. Descubre cómo recorrer arreglos mediante bucles `for`, acceder a sus elementos y comparar puntuaciones.
+* **Enlace**: Video de YouTube pendiente de publicación.
+* **Conclusiones clave**: Los arrays almacenan múltiples elementos del mismo tipo. Los índices comienzan en cero y la propiedad `length` permite conocer su tamaño. Podemos combinar arrays, objetos, bucles y condiciones para procesar información.
+* **Práctica**: [¡Comienza a programar en OnlineGDB!](https://onlinegdb.com/wWrY1J1pQ) **¡Sin instalar Java!**
+* **Solución completa**: [Ver código funcional en OnlineGDB](https://onlinegdb.com/DofTz-E5OS)
+* **Código fuente**: [Ejercicio inicial](starter-files/leccion-06/Main.java) | [Ejemplo completo](completed-examples/leccion-06/Main.java)
+* **Guion educativo**: [Consultar guion de la Lección 6](scripts/leccion-06/arrays-y-objetos.md)
+
 
 ### Lección 7: Mini Proyecto Integrador (16 minutos)
 * **Descripción**: Pon a prueba todo lo aprendido desarrollando paso a paso una aplicación funcional desde cero (Sistema de Registro / Juego de Adivinanzas).
@@ -87,7 +93,7 @@ Este curso de 1 hora introduce a estudiantes de secundaria a los fundamentos de 
 | 3 | Condicionales y Bucles | [OnlineGDB / Replit]([PENDIENTE_LINK_EDITOR_L3]) |
 | 4 | Métodos y Scanner | [OnlineGDB](https://onlinegdb.com/B3235MK-Re) |
 | 5 | Clases, Objetos y Encapsulación | [OnlineGDB / Replit]([PENDIENTE_LINK_EDITOR_L5]) |
-| 6 | Arrays con Objetos | [OnlineGDB / Replit]([PENDIENTE_LINK_EDITOR_L6]) |
+| 6 | Arrays y Objetos | [OnlineGDB](https://onlinegdb.com/wWrY1J1pQ) |
 | 7 | Mini Proyecto Integrador | [OnlineGDB / Replit]([PENDIENTE_LINK_EDITOR_L7]) |
 | 8 | Depuración y Buenas Prácticas | [OnlineGDB / Replit]([PENDIENTE_LINK_EDITOR_L8]) |
 
