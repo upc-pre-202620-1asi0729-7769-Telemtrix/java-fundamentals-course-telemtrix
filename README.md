@@ -27,9 +27,9 @@ Este curso de 1 hora introduce a estudiantes de secundaria a los fundamentos de 
 
 ### Lección 1: Introducción a la programación y Java (5 minutos)
 * **Descripción**: Aprende qué es la programación, por qué Java es un excelente lenguaje para empezar, su estructura básica y cómo mostrar mensajes en consola.
-* **Enlace**: [Ver la lección](https://youtu.be/mh5wDEQSnRk)
+* **Enlace**: [Ver la lección](https://youtu.be/3S8TPZugykI)
 * **Conclusiones clave**: Java se usa para aplicaciones y juegos; `System.out.println()` permite imprimir resultados en pantalla.
-* **Empieza a programar**: [Abrir OnlineGDB - Hola Mundo](https://www.mycompiler.io/view/DJDItXeZF5p) **¡Código listo para ejecutar!**
+* **Empieza a programar**: [Abrir OnlineGDB - Hola Mundo](https://www.mycompiler.io/view/CJdm35ZjiWc) **¡Código listo para ejecutar!**
 
 ### Lección 2: Variables, Tipos de Datos y Operadores (7 minutos)
 * **Descripción**: Aprende a almacenar información en Java usando variables, distintos tipos de datos y realizar operaciones matemáticas y lógicas.
