@@ -44,10 +44,10 @@ Este curso de 1 hora introduce a estudiantes de secundaria a los fundamentos de 
 - **Práctica**: [Clic para programar](https://www.mycompiler.io/view/Ku4Q4yuZyy7) **¡Inicio inmediato!**
 
 ### Lección 4: Métodos y Entrada de Usuario (10 minutos)
-* **Descripción**: Organiza y reutiliza tu código creando funciones (métodos con parámetros) y aprende a leer datos ingresados por el usuario desde el teclado.
-* **Enlace**: [Ver la lección]([PENDIENTE_LINK_YOUTUBE_L4])
-* **Conclusiones clave**: Definición de métodos `public static void saludar(String nombre)` y uso de la clase `Scanner`.
-* **Práctica**: [Haz clic para practicar]([PENDIENTE_LINK_EDITOR_L4]) **¡No necesitas registrarte!**
+- **Descripción**: Organiza y reutiliza tu código creando funciones (métodos con parámetros) y aprende a leer datos ingresados por el usuario desde el teclado.
+- **Enlace**: [Ver la lección](https://youtu.be/AvVkGdDv-74)
+- **Conclusiones clave**: Definición de métodos `public static void saludar(String nombre)` y uso de la clase `Scanner`.
+- **Práctica**: [Haz clic para practicar](https://www.mycompiler.io/view/DLgfjj7WTKl) **¡No necesitas registrarte!**
 
 ### Lección 5: Fundamentos de Programación Orientada a Objetos (8 minutos)
 * **Descripción**: Da el salto a la POO aprendiendo qué son las clases y los objetos, cómo inicializarlos con constructores y proteger datos con encapsulación.
