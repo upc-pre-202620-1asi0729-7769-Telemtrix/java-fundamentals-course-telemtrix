@@ -113,7 +113,7 @@ Este curso de 1 hora introduce a estudiantes de secundaria a los fundamentos de 
 * **Curso:** 1ASI0729 Desarrollo de Aplicaciones Open Source
 * **NRC:** 7769
 * **Nombre del equipo**: Telemtrix
-* **Líder del equipo**: [Apellidos y Nombres del Líder]
+* **Líder del equipo**: Echevarria Lizana Santiago Israel
 * **Integrantes del equipo**:
   * Echevarria Lizana, Santiago Israel (u20241g014)
   * Ysidro Llashag, Valeria Milagros (u20241g197)
