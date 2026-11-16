@@ -27,17 +27,17 @@ Este curso de 1 hora introduce a estudiantes de secundaria a los fundamentos de 
 
 ### Lección 1: Introducción a la programación y Java (5 minutos)
 * **Descripción**: Aprende qué es la programación, por qué Java es un excelente lenguaje para empezar, su estructura básica y cómo mostrar mensajes en consola.
-* **Enlace**: [Ver la lección](https://youtu.be/mh5wDEQSnRk)
+* **Enlace**: [Ver la lección](https://youtu.be/3S8TPZugykI)
 * **Conclusiones clave**: Java se usa para aplicaciones y juegos; `System.out.println()` permite imprimir resultados en pantalla.
-* **Empieza a programar**: [Abrir OnlineGDB - Hola Mundo](https://www.mycompiler.io/view/DJDItXeZF5p) **¡Código listo para ejecutar!**
+* **Empieza a programar**: [Abrir OnlineGDB - Hola Mundo](https://www.mycompiler.io/view/CJdm35ZjiWc) **¡Código listo para ejecutar!**
 
-### Lección 2: Variables, Tipos de Datos y Operadores (7 minutos)
+### Lección 2: Variables, Tipos de Datos y Operadores 
 * **Descripción**: Aprende a almacenar información en Java usando variables, distintos tipos de datos y realizar operaciones matemáticas y lógicas.
-* **Enlace**: [Ver la lección]([https://youtu.be/mh5wDEQSnRk])
+* **Enlace**: [Ver la lección](https://youtu.be/YhVCvevN30k)
 * **Conclusiones clave**: Uso de `int`, `double`, `String`, `boolean`; operadores aritméticos (`+`, `-`, `*`, `/`) y relacionales.
-* **Práctica**: [Clic para programar](https://www.mycompiler.io/view/DJDItXeZF5p) **¡No es necesario registrarse!**
+* **Práctica**: [Clic para programar](https://www.mycompiler.io/view/9VOiN8b16wb) **¡No es necesario registrarse!**
 
-### Lección 3: Estructuras de Control: Decisiones y Bucles (10 minutos)
+### Lección 3: Estructuras de Control: Decisiones y Bucles (11 minutos)
 - **Descripción**: Toma decisiones en tu código con condicionales `if-else` y repite tareas automáticamente utilizando bucles `for` y `while`.
 - **Enlace**: [Ver la lección](https://youtu.be/1wIqR3N5Xhk)
 - **Conclusiones clave**: `if (edad >= 15) {}` para evaluar condiciones; `for` y `while` para iteraciones.
@@ -61,17 +61,17 @@ Este curso de 1 hora introduce a estudiantes de secundaria a los fundamentos de 
 * **Conclusiones clave**: Declaración y recorrido de arrays (`Estudiante[] lista = new Estudiante[5]`).
 * **Práctica**: [Clic para programar]([PENDIENTE_LINK_EDITOR_L6]) **¡No es necesario registrarse!**
 
-### Lección 7: Mini Proyecto Integrador (10 minutos)
+### Lección 7: Mini Proyecto Integrador (16 minutos)
 * **Descripción**: Pon a prueba todo lo aprendido desarrollando paso a paso una aplicación funcional desde cero (Sistema de Registro / Juego de Adivinanzas).
-* **Enlace**: [Ver la lección]([PENDIENTE_LINK_YOUTUBE_L7])
+* **Enlace**: [Ver la lección](https://youtu.be/0Vy1h-4HPnE)
 * **Conclusiones clave**: Integración de clases, objetos, bucles, condicionales y entrada por consola.
-* **Proyecto final**: [Crea tu aplicación POO]([PENDIENTE_LINK_EDITOR_L7]) **¡Guarda y comparte!**
+* **Proyecto final**: [Crea tu aplicación POO](https://onlinegdb.com/wAjis5BZc) **¡Guarda y comparte!**
 
-### Lección 8: Mejores Prácticas y Errores Comunes (5 minutos)
+### Lección 8: Mejores Prácticas y Errores Comunes (3 minutos)
 * **Descripción**: Aprende a escribir código limpio, seguir convenciones de nombres en Java y detectar/corregir los errores más frecuentes al empezar.
-* **Enlace**: [Ver la lección]([PENDIENTE_LINK_YOUTUBE_L8])
+* **Enlace**: [Ver la lección](https://youtu.be/CzUeXhDZTSE)
 * **Consejos clave**: Nomenclatura `CamelCase`, indentación, lectura de mensajes de error de compilación y depuración básica.
-* **Compartir tu trabajo**: [Enviar creación]([PENDIENTE_LINK_FORMS_O_EDITOR_L8])
+* **Compartir tu trabajo**: [Enviar creación](https://onlinegdb.com/wAjis5BZc)
 
 ---
 
