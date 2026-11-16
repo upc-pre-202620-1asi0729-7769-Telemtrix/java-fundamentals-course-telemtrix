@@ -47,7 +47,7 @@ Este curso de 1 hora introduce a estudiantes de secundaria a los fundamentos de 
 * **Descripción**: Organiza y reutiliza tu código creando funciones (métodos con parámetros) y aprende a leer datos ingresados por el usuario desde el teclado.
 * **Enlace**: [Ver la lección]([PENDIENTE_LINK_YOUTUBE_L4])
 * **Conclusiones clave**: Definición de métodos `public static void saludar(String nombre)` y uso de la clase `Scanner`.
-* **Práctica**: [Haz clic para practicar]([PENDIENTE_LINK_EDITOR_L4]) **¡No necesitas registrarte!**
+* **Práctica**: [Haz clic para practicar](https://onlinegdb.com/B3235MK-Re) **¡No necesitas registrarte!**
 
 ### Lección 5: Fundamentos de Programación Orientada a Objetos (8 minutos)
 * **Descripción**: Da el salto a la POO aprendiendo qué son las clases y los objetos, cómo inicializarlos con constructores y proteger datos con encapsulación.
@@ -85,7 +85,7 @@ Este curso de 1 hora introduce a estudiantes de secundaria a los fundamentos de 
 | 1 | Hola Mundo y Consola | [OnlineGDB / Replit]([PENDIENTE_LINK_EDITOR_L1]) |
 | 2 | Variables y Operadores | [OnlineGDB / Replit]([PENDIENTE_LINK_EDITOR_L2]) |
 | 3 | Condicionales y Bucles | [OnlineGDB / Replit]([PENDIENTE_LINK_EDITOR_L3]) |
-| 4 | Métodos y Scanner | [OnlineGDB / Replit]([PENDIENTE_LINK_EDITOR_L4]) |
+| 4 | Métodos y Scanner | [OnlineGDB](https://onlinegdb.com/B3235MK-Re) |
 | 5 | Clases, Objetos y Encapsulación | [OnlineGDB / Replit]([PENDIENTE_LINK_EDITOR_L5]) |
 | 6 | Arrays con Objetos | [OnlineGDB / Replit]([PENDIENTE_LINK_EDITOR_L6]) |
 | 7 | Mini Proyecto Integrador | [OnlineGDB / Replit]([PENDIENTE_LINK_EDITOR_L7]) |
