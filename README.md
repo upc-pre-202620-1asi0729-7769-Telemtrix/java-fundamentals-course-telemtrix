@@ -61,17 +61,17 @@ Este curso de 1 hora introduce a estudiantes de secundaria a los fundamentos de 
 * **Conclusiones clave**: Declaración y recorrido de arrays (`Estudiante[] lista = new Estudiante[5]`).
 * **Práctica**: [Clic para programar]([PENDIENTE_LINK_EDITOR_L6]) **¡No es necesario registrarse!**
 
-### Lección 7: Mini Proyecto Integrador (10 minutos)
+### Lección 7: Mini Proyecto Integrador (16 minutos)
 * **Descripción**: Pon a prueba todo lo aprendido desarrollando paso a paso una aplicación funcional desde cero (Sistema de Registro / Juego de Adivinanzas).
-* **Enlace**: [Ver la lección]([PENDIENTE_LINK_YOUTUBE_L7])
+* **Enlace**: [Ver la lección](https://youtu.be/0Vy1h-4HPnE)
 * **Conclusiones clave**: Integración de clases, objetos, bucles, condicionales y entrada por consola.
-* **Proyecto final**: [Crea tu aplicación POO]([PENDIENTE_LINK_EDITOR_L7]) **¡Guarda y comparte!**
+* **Proyecto final**: [Crea tu aplicación POO](https://onlinegdb.com/wAjis5BZc) **¡Guarda y comparte!**
 
-### Lección 8: Mejores Prácticas y Errores Comunes (5 minutos)
+### Lección 8: Mejores Prácticas y Errores Comunes (3 minutos)
 * **Descripción**: Aprende a escribir código limpio, seguir convenciones de nombres en Java y detectar/corregir los errores más frecuentes al empezar.
-* **Enlace**: [Ver la lección]([PENDIENTE_LINK_YOUTUBE_L8])
+* **Enlace**: [Ver la lección](https://youtu.be/CzUeXhDZTSE)
 * **Consejos clave**: Nomenclatura `CamelCase`, indentación, lectura de mensajes de error de compilación y depuración básica.
-* **Compartir tu trabajo**: [Enviar creación]([PENDIENTE_LINK_FORMS_O_EDITOR_L8])
+* **Compartir tu trabajo**: [Enviar creación](https://onlinegdb.com/wAjis5BZc)
 
 ---
 
