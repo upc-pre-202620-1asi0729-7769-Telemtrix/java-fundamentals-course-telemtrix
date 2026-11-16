@@ -49,11 +49,17 @@ Este curso de 1 hora introduce a estudiantes de secundaria a los fundamentos de 
 - **Conclusiones clave**: Definición de métodos `public static void saludar(String nombre)` y uso de la clase `Scanner`.
 - **Práctica**: [Haz clic para practicar](https://onlinegdb.com/B3235MK-Re) **¡No necesitas registrarte!**
 
+
 ### Lección 5: Fundamentos de Programación Orientada a Objetos (8 minutos)
-* **Descripción**: Da el salto a la POO aprendiendo qué son las clases y los objetos, cómo inicializarlos con constructores y proteger datos con encapsulación.
-* **Enlace**: [Ver la lección]([PENDIENTE_LINK_YOUTUBE_L5])
-* **Conclusiones clave**: Creación de clases, atributos, constructores y métodos `getters` y `setters`.
-* **Práctica**: [Clic para programar]([PENDIENTE_LINK_EDITOR_L5]) **¡Inicio inmediato!**
+
+* **Descripción**: Aprende los fundamentos de la Programación Orientada a Objetos (POO) en Java mediante la creación de una clase `Jugador`. Descubre cómo utilizar atributos, constructores, métodos y encapsulación con getters y setters.
+* **Enlace**: [Ver la Lección 5 en YouTube](https://youtu.be/2ZQr82_QnRs)
+* **Conclusiones clave**: Una clase funciona como un molde para crear objetos. Los constructores permiten inicializarlos y la encapsulación protege sus atributos mediante getters y setters.
+* **Práctica**: [¡Comienza a programar en OnlineGDB!](https://onlinegdb.com/eLlqLkd90) **¡Sin instalar Java!**
+* **Solución completa**: [Ver código funcional en OnlineGDB](https://onlinegdb.com/eSJYBeT04)
+* **Código fuente**: [Ejercicio inicial](starter-files/leccion-05/Main.java) | [Ejemplo completo](completed-examples/leccion-05/Main.java)
+* **Guion educativo**: [Consultar guion de la Lección 5](scripts/leccion-05/fundamentos-poo.md)
+
 
 
 ### Lección 6: Arrays y Manipulación de Datos con Objetos (7 minutos)
@@ -92,7 +98,7 @@ Este curso de 1 hora introduce a estudiantes de secundaria a los fundamentos de 
 | 2 | Variables y Operadores | [OnlineGDB / Replit]([PENDIENTE_LINK_EDITOR_L2]) |
 | 3 | Condicionales y Bucles | [OnlineGDB / Replit]([PENDIENTE_LINK_EDITOR_L3]) |
 | 4 | Métodos y Scanner | [OnlineGDB](https://onlinegdb.com/B3235MK-Re) |
-| 5 | Clases, Objetos y Encapsulación | [OnlineGDB / Replit]([PENDIENTE_LINK_EDITOR_L5]) |
+| 5 | Clases, Objetos y Encapsulación | [OnlineGDB](https://onlinegdb.com/eLlqLkd90) |
 | 6 | Arrays y Objetos | [OnlineGDB](https://onlinegdb.com/wWrY1J1pQ) |
 | 7 | Mini Proyecto Integrador | [OnlineGDB / Replit]([PENDIENTE_LINK_EDITOR_L7]) |
 | 8 | Depuración y Buenas Prácticas | [OnlineGDB / Replit]([PENDIENTE_LINK_EDITOR_L8]) |
